@@ -1,4 +1,6 @@
 #include<iostream>
+#include<conio.h>
+#include<stdio.h>
 using namespace std;
 //Declare a class
 class Node
